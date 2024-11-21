@@ -248,8 +248,10 @@ Data visulalizations(time series):
 - Action,Adventure,sci-fi movies genres are most common along in all released anime.
 - after year 2000 [ONA(Original net animation)](https://en.m.wikipedia.org/wiki/Original_net_animation) type are producing more compare to others type of anime.
 - after 2000 - current years all most all anime episides durations has decreased only leaving movies type anime.
-- R- (violence and profanity) content rating movies  rating score found >7 and going to increased year by year.also teen 13 +,R+ mild nudity with rating score >6.
--  R- (violence and profanity) and R+ mild nudity type content are most favoured compare to other type of contents.
+-[R- (violence and profanity)](https://myanimelist.net/forum/?topicid=629067)
+  content rating movies  rating score found >7 and going to increased year by year.also teen 13 +,R+ mild nudity with rating score >6.
+  
+-  [R- (violence and profanity)](https://myanimelist.net/forum/?topicid=629067) and R+ mild nudity type content are most favoured compare to other type of contents.
 -  from the [manga](https://en.m.wikipedia.org/wiki/Manga)    source anime and original source anime are producing more.[manga](https://en.m.wikipedia.org/wiki/Manga)    source type anime rank are better compare to others type of anime.
 
  
