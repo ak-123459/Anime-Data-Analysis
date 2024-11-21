@@ -275,7 +275,17 @@ Data visulalizations(time series):
 
 
 
-- ## **Recommendations** 
+- ## **Recommendations**
+
+ </div>
+
+<div align= "start">
+
+
+ &nbsp; &nbsp; <a href="https://imgbb.com/"><img src="https://i.ibb.co/wJ6kKqM/problem-solving.png" alt="problem-solving" width="50" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'></a><br />
+ 
+</div>
+
 
 <div align= "start">
 
