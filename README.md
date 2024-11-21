@@ -3,7 +3,7 @@
 
 <br></br>
 
-from recent years anime gain popularity between people in various type movies,ova(Original video animation),ona(Original net animation) etc.the aim of this projects using anlytics skills visualize the trends and patterns from previous released anime dataset to know future trends.
+from recent years anime gain popularity between people in various type movies,[ova(Original video animation)](https://en.m.wikipedia.org/wiki/Original_video_animation)   ,[ona(Original net animation)](https://en.m.wikipedia.org/wiki/Original_net_animation) etc.the aim of this projects using anlytics skills visualize the trends and patterns from previous released anime dataset to know future trends.
 
 
 
@@ -206,7 +206,7 @@ Data visulalizations(time series):
   #### 3. Data Preprocessing
   **Tools** - *Power-BI Query Editor*
    - Removing nan values,empty,duplcates
-   - drop unuseful columns like url etc.
+
    - creating a new column from Aired column by splitting by delimiter(to) and after renaming it.
    - I have faced a problem when visualization of Genres column data because this column contains multiple values in aingle row like Action,Adventure,scifi. but we needed the single value in each row show how we achieve this in power bi.so here the step-by step guide how we have done this -:
      1) first select the "genres" column in power bi query editor.
@@ -250,7 +250,7 @@ Data visulalizations(time series):
 - after 2000 - current years all most all anime episides durations has decreased only leaving movies type anime.
 - R- (violence and profanity) content rating movies  rating score found >7 and going to increased year by year.also teen 13 +,R+ mild nudity with rating score >6.
 -  R- (violence and profanity) and R+ mild nudity type content are most favoured compare to other type of contents.
--  from the manga source anime and original source anime are producing more.manga source type anime rank are better compare to others type of anime.
+-  from the [manga](https://en.m.wikipedia.org/wiki/Manga)    source anime and original source anime are producing more.[manga](https://en.m.wikipedia.org/wiki/Manga)    source type anime rank are better compare to others type of anime.
 
  
 </div>
