@@ -101,7 +101,7 @@ from recent years anime gain popularity between people in various type movies,[o
 
 ### Technical skills
 - `Power Bi Desktop`
-- `Kaggle'
+- `Kaggle`
 - `Data visualization`
 - `Statatics`
 - `ETL(Extract transform load)`
