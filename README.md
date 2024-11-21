@@ -165,12 +165,12 @@ from recent years anime gain popularity between people in various type movies,ov
 <div align= "start">
 
 - ### **Methodology**
-  In the field of data analytics/data science a analyst need to  follow some steps like probelm statements,data extraction,data transfromations and data loading we called the process ETL(Extract transform load) and also Descriptive analytics.so in this project we have followed these setps in power bi.I have provided a file of Udemy_da_powerbi.pdf that contain all streps in pictures to picture that we have used in this analysis project.in the down below the basic method we have followed in each step-
+  In the field of data analytics/data science a analyst need to  follow some steps like probelm statements,data extraction,data transfromations and data loading we called that process ETL(Extract transform load) and also Descriptive analytics.in the down below the basic method we have followed in each step-
   
   #### 1. Problem Definition
 
 
-  Here are the some key points and questions we have analyzed.
+  Here are the some key points and questions we have explored.
   
   ##### Task List
 
@@ -183,13 +183,52 @@ from recent years anime gain popularity between people in various type movies,ov
     - Max scored by users
 
 
-  Data Visualization
+  Data Visualization:
   
-   - 
+   - Top praducers minimum 50 anim
+   - visualization of anime genres using wordcloud visuals.
 
-      
+Data visulalizations(time series):
+   - year-vise anime released by type of anime
+   - year-vise median durations differences by type of anime
+   - year-vise median score(rating) diff. by rating(content rating type)
+   - last 13 years median ranks by source
+   - by age rating(content type rating) year-vise median differences  of favourite anime
+   - year-vise total anime released by source
 
-***
+
+
+#### 2. Data Collection
+  **Tools** -  *Poer-Bi Data Source*
+  We have downloaded the dataset from the open source machine learning and data scienece websites [kaggle](https://www.kaggle.com/datasets/dbdmobile/myanimelist-dataset?select=anime-dataset-2023.csv) and also imported in power bi using excel workbook.
+
+&nbsp; &nbsp;
+  #### 3. Data Preprocessing
+  **Tools** - *Power-BI Query Editor*
+   - Removing nan values,empty,duplcates
+   - drop unuseful columns like url etc.
+   - creating a new column from Aired column by splitting by delimiter(to) and after renaming it.
+   - I have faced a problem when visualization of Genres column data because this column contains multiple values in aingle row like Action,Adventure,scifi. but we needed the single value in each row show how we achieve this in power bi.so here the step-by step guide how we have done this -:
+     1) first select the "genres" column in power bi query editor.
+     2) go to the add new column and split by delimiter(comma).
+     3) now select the all new created columns and click on the unpivot columns.
+     4) now a new new column created you just need to rename it.
+     5) now right click on the new generated column and click on the remove other columns.
+     6) now close and apply you can visualize the new created columns data using wordcloud.
+
+&nbsp; &nbsp;
+  #### 4.Data Visualisations
+ **Tools** - *Power BI DashBoard*
+    
+
+&nbsp; &nbsp;
+  #### 5. Report Building
+  
+   **Tools** - *Power BI Report-View*
+
+</div>
+
+
 
 
 
