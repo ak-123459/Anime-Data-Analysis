@@ -97,14 +97,14 @@ from recent years anime gain popularity between people in various type movies,ov
 <div align= "start">
   
  - ## **Prerequisites**
-   Before running the analysis, ensure that you have the following skills:
+   
 
 ### Technical skills
 - `Power Bi Desktop`
 - `Kaggle'
 - `Data visualization`
 - `Statatics`
-- `ETL(Extract transdorm load`
+- `ETL(Extract transform load)`
   
 </div>
 
