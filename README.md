@@ -58,6 +58,147 @@ from recent years anime gain popularity between people in various type movies,ov
 
 
 
+***
+
+
+<div align= "start">
+&nbsp; &nbsp; <a href="https://imgbb.com/"><img src="https://i.ibb.co/D9vKsxH/dataset.png" alt="dataset" border="0"  width="50"></a> <div/>
+ 
+
+  
+ <div align= "start">
+   
+- ## **Dataset**
+
+
+ To know about the dataset  go through the link.you can also download the dataset 🔗  -> [Anime-dataset](https://www.kaggle.com/datasets/dbdmobile/myanimelist-dataset?select=anime-dataset-2023.csv) 
+
+***Note***:- you need to download only anime-dataset-2023.csv from the kaggle.
+  
+  </div>
+
+
+
+
+
+
+***
+
+
+
+<div align= "start">
+ 
+&nbsp; &nbsp; <a href="https://imgbb.com/"><img src="https://i.ibb.co/9TTK8Gc/icons8-requirements-64.png" width="50" alt="icons8-requirements-64" border="0"></a>
+
+</div>
+
+
+
+<div align= "start">
+  
+ - ## **Prerequisites**
+   Before running the analysis, ensure that you have the following skills:
+
+### Technical skills
+- `Power Bi Desktop`
+- `Kaggle'
+- `Data visualization`
+- `Statatics`
+- `ETL(Extract transdorm load`
+  
+</div>
+
+
+
+***
+
+
+<div align= "start">
+ 
+&nbsp; &nbsp; <a href="https://imgbb.com/"><img src="https://i.ibb.co/DDYn9zS/icons8-structure-48.png" width="50" alt="icons8-structure-48" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'></a><br />
+</div>
+
+
+
+<div align= "start">
+  
+ - ## **Project Structure**
+
+
+
+   
+- **Main/**
+  
+  - `Anime-Dashboard.pdf`: **Data Visualisations** in .pdf format.
+
+
+  - `Anime-Dashboard.pbix`: Data Visualisation in .pbix format.
+ 
+  
+
+
+- **Main/**
+  - `anime-dashboard-template.pbit .pbit`:template  to build others power bi Dashboard.
+
+
+- `requirements.txt`: software requirements.
+- `README.md`: This file.
+  
+   </div>
+
+
+
+
+
+
+
+***
+
+
+<div align= "start">
+
+&nbsp; &nbsp; <a href="https://imgbb.com/"><img src="https://i.ibb.co/SyNZJd3/icons8-skills-64.png" width="50" alt="icons8-skills-64" border="0"></a>
+
+</div>
+
+
+<div align= "start">
+
+- ### **Methodology**
+  In the field of data analytics/data science a analyst need to  follow some steps like probelm statements,data extraction,data transfromations and data loading we called the process ETL(Extract transform load) and also Descriptive analytics.so in this project we have followed these setps in power bi.I have provided a file of Udemy_da_powerbi.pdf that contain all streps in pictures to picture that we have used in this analysis project.in the down below the basic method we have followed in each step-
+  
+  #### 1. Problem Definition
+
+
+  Here are the some key points and questions we have analyzed.
+  
+  ##### Task List
+
+  Descriptive Analysis(Summary):
+    
+    - Most favourites anime
+    - Most Scored anime by users
+    - top rated anime
+    - Max episodes in overall produced anime
+    - Max scored by users
+
+
+  Data Visualization
+  
+   - 
+
+      
+
+***
+
+
+
+
+
+
+
+
+
  
 
 
