@@ -231,7 +231,59 @@ Data visulalizations(time series):
 
 
 
+***
 
+<div align= "start">
+
+&nbsp; &nbsp; <a href="https://imgbb.com/"><img src="https://i.ibb.co/MCtrJKX/find-1.png" alt="find-1" width="50" border="0"></a>
+
+</div>
+
+
+<div align= "start">
+
+
+- ## **Key Findings**
+
+- Action,Adventure,sci-fi movies genres are most common along in all released anime.
+- after year 2000 [ONA(Original net animation)](https://en.m.wikipedia.org/wiki/Original_net_animation) type are producing more compare to others type of anime.
+- after 2000 - current years all most all anime episides durations has decreased only leaving movies type anime.
+- R- (violence and profanity) content rating movies  rating score found >7 and going to increased year by year.also teen 13 +,R+ mild nudity with rating score >6.
+-  R- (violence and profanity) and R+ mild nudity type content are most favoured compare to other type of contents.
+-  from the manga source anime and original source anime are producing more.manga source type anime rank are better compare to others type of anime.
+
+ 
+</div>
+
+
+
+***
+
+
+
+<div align= "start">
+
+ &nbsp; &nbsp;<a href="https://imgbb.com/"><img src="https://i.ibb.co/q11pdTW/recommended.png" alt="find-1" width="50" border="0"></a>
+
+
+</div>
+
+
+<div align= "start">
+
+
+
+- ## **Recommendations** 
+
+<div align= "start">
+
+ - ## **Contributors** 
+ [**Akash Prasad Mishra**](https://github.com/ak-123459),[**Shivam Tamrakar**](https://github.com/ShivamTamrakar16)
+   
+
+</div>
+
+***
 
 
 
