@@ -247,7 +247,7 @@ Data visulalizations(time series):
 
 - Action,Adventure,sci-fi movies genres are most common along in all released anime.
 - after year 2000 [ONA(Original net animation)](https://en.m.wikipedia.org/wiki/Original_net_animation) type are producing more compare to others type of anime.
-- after 2000 - current years all most all anime episides durations has decreased only leaving movies type anime.
+- after 2000 - current years all most all anime episodes durations has decreased only leaving movies type anime.
 -[R- (violence and profanity)](https://myanimelist.net/forum/?topicid=629067)
   content rating movies  rating score found >7 and going to increased year by year.also teen 13 +,R+ mild nudity with rating score >6.
   
