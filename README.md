@@ -277,7 +277,20 @@ Data visulalizations(time series):
 
 - ## **Recommendations**
 
+- R- 17+ (violence & profanity) and teen 13 and also R- mild nudity rating type movies gain most rating by users.so these type of anime are more profitable.R- 17+ (violence & profanity) and
+ R- mild nudity rating type anime people added to favourites list and this is growing year by year.
+  
+- anime that are takes from manga and novel have good rank in overall sources this source type movies are also profitable.
+
+- praducing low durations movies are more producing.
+
  </div>
+
+
+
+
+
+ ***
 
 <div align= "start">
 
@@ -285,6 +298,9 @@ Data visulalizations(time series):
  &nbsp; &nbsp; <a href="https://imgbb.com/"><img src="https://i.ibb.co/wJ6kKqM/problem-solving.png" alt="problem-solving" width="50" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'></a><br />
  
 </div>
+
+
+
 
 
 <div align= "start">
